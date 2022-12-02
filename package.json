@@ -1,0 +1,51 @@
+{
+  "name": "init_nodejs-socket",
+  "version": "1.0.0",
+  "description": "clone socket programming in init nodejs study",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmc012/init_nodejs-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmc012/init_nodejs-socket/issues"
+  },
+  "homepage": "https://github.com/kmc012/init_nodejs-socket#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "firebase": "^9.14.0",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.40.0",
+    "react-icons": "^4.7.1",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.4",
+    "react-script": "^2.0.5",
+    "react-scripts": "^5.0.1",
+    "redux-promise": "^0.6.0",
+    "redux-thunk": "^2.4.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
